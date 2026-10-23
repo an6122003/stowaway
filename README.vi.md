@@ -196,6 +196,16 @@ defaults write io.github.an6122003.stowaway DebugDiagnostics -bool true
 
 Kỹ thuật vách ngăn mở rộng bắt nguồn từ [Dozer](https://github.com/Mortennn/Dozer) và [Hidden Bar](https://github.com/dwarvesf/hidden) của đội ngũ Dwarves Foundation tại Việt Nam. Stowaway bổ sung danh sách dọc, cách đẩy chính xác có nhận biết tai thỏ để giữ nguyên biểu tượng của Apple, và tự cất đi lại ngay khi menu đóng.
 
+## Bến cảng
+
+Stowaway là một trong ba tiện ích Mac nhỏ gọn, viết thuần Swift, cùng chung một phong cách và cùng một thói quen: làm thật tốt đúng một việc.
+
+| | | |
+|---|---|---|
+| <img src="docs/images/icon.png" width="56"> | **Stowaway** | Mọi biểu tượng trên thanh menu — kể cả những cái bị tai thỏ che mất |
+| <img src="https://raw.githubusercontent.com/an6122003/marina/main/docs/images/icon.png" width="56"> | **[Marina](https://github.com/an6122003/marina)** | Mỗi màn hình một Dock |
+| <img src="https://raw.githubusercontent.com/an6122003/anchorlight/main/docs/images/icon.png" width="56"> | **[Anchorlight](https://github.com/an6122003/anchorlight)** | Gập máy lại, đèn vẫn sáng |
+
 ## Giấy phép
 
 [MIT](LICENSE) © 2026 an6122003

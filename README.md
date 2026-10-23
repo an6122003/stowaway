@@ -196,6 +196,16 @@ defaults write io.github.an6122003.stowaway DebugDiagnostics -bool true
 
 The expanding-spacer technique comes from [Dozer](https://github.com/Mortennn/Dozer) and [Hidden Bar](https://github.com/dwarvesf/hidden) by Dwarves Foundation. Stowaway adds the vertical list, notch-aware precise pushing that leaves Apple's indicators in place, and re-hiding the moment a menu closes.
 
+## The harbour
+
+Stowaway is one of three small, native Mac utilities that share a look and a habit of doing one thing well:
+
+| | | |
+|---|---|---|
+| <img src="docs/images/icon.png" width="56"> | **Stowaway** | Every menu bar icon — even the ones behind the notch |
+| <img src="https://raw.githubusercontent.com/an6122003/marina/main/docs/images/icon.png" width="56"> | **[Marina](https://github.com/an6122003/marina)** | A Dock on every display |
+| <img src="https://raw.githubusercontent.com/an6122003/anchorlight/main/docs/images/icon.png" width="56"> | **[Anchorlight](https://github.com/an6122003/anchorlight)** | Close the lid, keep the light on |
+
 ## License
 
 [MIT](LICENSE) © 2026 an6122003

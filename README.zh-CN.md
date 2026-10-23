@@ -196,6 +196,16 @@ defaults write io.github.an6122003.stowaway DebugDiagnostics -bool true
 
 扩展隔板的技巧源自 [Dozer](https://github.com/Mortennn/Dozer) 和 Dwarves Foundation 的 [Hidden Bar](https://github.com/dwarvesf/hidden)。Stowaway 在此基础上加入了竖向列表、能感知刘海并让 Apple 系统图标保持原位的精确推送，以及菜单关闭后立即重新收起。
 
+## 港湾
+
+Stowaway 是三款小巧原生 Mac 工具之一，它们风格一致，也都只把一件事做好：
+
+| | | |
+|---|---|---|
+| <img src="docs/images/icon.png" width="56"> | **Stowaway** | 每一个菜单栏图标——包括被刘海挡住的那些 |
+| <img src="https://raw.githubusercontent.com/an6122003/marina/main/docs/images/icon.png" width="56"> | **[Marina](https://github.com/an6122003/marina)** | 每块屏幕，都有程序坞 |
+| <img src="https://raw.githubusercontent.com/an6122003/anchorlight/main/docs/images/icon.png" width="56"> | **[Anchorlight](https://github.com/an6122003/anchorlight)** | 合上盖子，灯依然亮着 |
+
 ## 许可证
 
 [MIT](LICENSE) © 2026 an6122003
